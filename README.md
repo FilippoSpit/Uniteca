@@ -1,5 +1,5 @@
 # Uniteca
-![Alt text](static/images/Logo.jpg "Logo Uniteca")
+![Alt text](static/images/Logo.png "Logo Uniteca")
  Unimensa is a Progressive Web App made by **Nicola Cirillo**, **Filippo Spitaletta** and **Pasquale Ferrandino** for the project of Web Technologies (University of Naples Parthenope).
  
  
