@@ -1,6 +1,7 @@
 # Uniteca
 ![Alt text](static/images/Logo.png "Logo Uniteca")
- Uniteca is a Progressive Web App made by **Nicola Cirillo**, **Filippo Spitaletta** and **Pasquale Ferrandino** for the project of Web Technologies (University of Naples Parthenope).
+ 
+Uniteca is a Progressive Web App made by **Nicola Cirillo**, **Filippo Spitaletta** and **Pasquale Ferrandino** for the project of Web Technologies (University of Naples Parthenope).
  
  
 The purpose of the app is to The purpose of this app is the management of the university library, through the development of a Progressive Web App, which aims at the implementation of the management of the various books and their booking.
