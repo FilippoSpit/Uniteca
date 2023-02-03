@@ -1,5 +1,5 @@
 # Uniteca
-![Alt text](uniteca/static/images/Logo.png "Logo Uniteca")
+![Alt text](uniteca3_2_2023/static/images/Logo.png "Logo Uniteca")
 
 Uniteca is a Progressive Web App made by **Nicola Cirillo**, **Filippo Spitaletta** and **Pasquale Ferrandino** for the project of Web Technologies (University of Naples Parthenope).
  
